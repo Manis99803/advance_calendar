@@ -1,7 +1,14 @@
 # advance_calendar
 
 
-This application was executed on 17th June 2020.
+* This application was executed on 17th June 2020.
+
+- This application is about printing the full month calendar, which highlights the current date. Besides this, the application also lets you to know the calendar of previous months or the coming months, thereby helping you in understanding the day    for the current date in either coming month or the previous months.
+
+Instruction to run:
+
+#### Displays the calendar of one month greater than current month, highlighting the current date.
+* python advance_calendar.py
 
 #### 1. python3 advance_calculator.py
    * Note: No command line arguments are being passed
